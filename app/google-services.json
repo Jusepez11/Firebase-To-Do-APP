@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691426289260",
+    "firebase_url": "https://quickstart-1578623402555.firebaseio.com",
+    "project_id": "quickstart-1578623402555",
+    "storage_bucket": "quickstart-1578623402555.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691426289260:android:05c8f9c077cc5a21a91a49",
+        "android_client_info": {
+          "package_name": "edu.uncc.assignment11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691426289260-s0d8uc8est4trthba1vknrhvdg4lirlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZfvEiTB8xv2ItP-iBEixnk7fLLRdXsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691426289260-9ll9ihv7vt4m5sl5jh8bh3g5rtf61lg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
